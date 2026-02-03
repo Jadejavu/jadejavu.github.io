@@ -21,4 +21,14 @@ main:
     #notes: Oral Presentation
     image: ./assets/img/fig_xslice.png
 
-    
+  - title: "UAV-Assisted Heterogeneous Cloud Radio Access Network With Comprehensive Interference Management"
+    authors: <strong>Jie Lu</strong>, Jingfu Li, F. Richard Yu, Weiheng Jiang, Wenjiang Feng
+    conference_short: TVT
+    conference: IEEE Transactions on Vehicular Technology, 2025.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10224325
+    #code: https://github.com/xslice-5G/code
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:TKBUmNjqiBwJ:scholar.google.com/&output=citation&scisdr=Cn1FVq2rEIr15kCK81Q:AHkA5jQAAAAAaYGM61R-szSlS5K8X14EcPjo70Y&scisig=AHkA5jQAAAAAaYGM67-2_OevITnfIWeqnZRU8KQ&scisf=4&ct=citation&cd=-1&hl=en
+    #notes: Oral Presentation
+    image: ./assets/img/fig_im.png
+
