@@ -19,4 +19,9 @@ I am a Ph.D. student in Computer Science and Engineering at [Michigan State Univ
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/honors.md %}
+
+## Honors
+
+- **[2023]** National Scholarship for Graduate Students (<strong>Top 1%</strong>, highest honor for graduate students in China) 
+- **[2023]** Outstanding Graduate Award
+- **[2018,2019,2020]** National Scholarship for Undergraduate Students (<strong>Top 1%</strong>, highest honor for undergraduate students in China) 
