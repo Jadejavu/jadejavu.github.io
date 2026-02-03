@@ -6,9 +6,9 @@ email: lujie2 [at] msu.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: jie lu msu
-description: 
-canonical: Personal Website of Jie Lu, a CS Ph.D. student at Michigan State University.
+keywords: "jie lu, msu, phd, wireless, 5g, 6g, nr, oran, o-ran, reinforcement learning"
+description: Personal Website of Jie Lu, a CS Ph.D. student at Michigan State University researching AI-driven wireless networking systems.
+canonical: https://jadejavu.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
