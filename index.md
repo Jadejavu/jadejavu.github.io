@@ -13,10 +13,10 @@ I am a Ph.D. student in Computer Science and Engineering at Michigan State Unive
 
 ## News
 
-- **[Dec. 2025]** Our paper EExApp is accepted to IEEE INFOCOM 2026. My first paper of my Ph.D. journey! 
-- **[Oct. 2025]** Successfully passing the qualifying exam! 
+- **[Dec. 2025]** Our paper EExApp is accepted to IEEE INFOCOM 2026. My first paper of the Ph.D. journey! 
+- **[Oct. 2025]** Successfully passing the qualifying exam.
 
 
 {% include_relative _includes/publications.md %}
 
-#{% include_relative _includes/services.md %}
+{% include_relative _includes/honors.md %}
